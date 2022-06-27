@@ -38,7 +38,7 @@ function App() {
               {item.subtitulo}
             </p>
 
-            <a className="botao">Accesar</a>
+           
 
           </article>
         )
